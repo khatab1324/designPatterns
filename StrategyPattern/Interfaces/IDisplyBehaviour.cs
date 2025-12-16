@@ -1,0 +1,4 @@
+interface IDisplayBehaviour
+{
+    void Display();
+}
