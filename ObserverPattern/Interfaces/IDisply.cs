@@ -1,0 +1,4 @@
+interface IDisply
+{
+    void Disply();
+}

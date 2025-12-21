@@ -1,1 +1,1 @@
-﻿StaregyPattern.excute();
+﻿ObserverPattern.excute();
