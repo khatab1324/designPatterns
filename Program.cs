@@ -1,1 +1,1 @@
-﻿ObserverPattern.excute();
+﻿DecoratorPattern.execut();
