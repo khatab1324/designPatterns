@@ -8,6 +8,7 @@ static class DecoratorPattern
         System.Console.WriteLine("lateh :" + lateh.cost());
         System.Console.WriteLine("mocka :" + mocka.cost());
         System.Console.WriteLine("wearOrder :" + weardOrder.cost());
+        System.Console.WriteLine("wearOrder :" + weardOrder.cost());
 
     }
 }
