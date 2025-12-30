@@ -1,1 +1,1 @@
-﻿DecoratorPattern.execut();
+﻿FactoryPattern.execut();
