@@ -1,1 +1,1 @@
-﻿FactoryPattern.execut();
+﻿SingletonPattern.execute();
