@@ -1,1 +1,2 @@
-﻿SingletonPattern.execute();
+﻿// SingletonPattern.execute();
+AdapterPattern.excute();
